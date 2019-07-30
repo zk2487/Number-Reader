@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/number_reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+            <state relative-caret-position="125">
+              <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -194,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62815887" visible="true" weight="0.11844197" />
@@ -247,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/number_reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+        <state relative-caret-position="125">
+          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
         </state>
       </provider>
     </entry>
