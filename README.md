@@ -1,4 +1,5 @@
 # Number-Reader
+-----------
 The program has a decent success rate of 95%.
 Playing around with MNIST and CNN networks.
 -----------
