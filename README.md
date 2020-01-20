@@ -1,7 +1,7 @@
 # Number-Reader
 -----------
-The program has a decent success rate of 95%.
-Playing around with MNIST and CNN networks.
+####### The program has a decent success rate of 95%.
+# Playing around with MNIST and CNN networks.
 -----------
 Based on the work of Python Machine Learning Tutorial.
 Remember to download the tensor and other supplementary packages before running the program. Otherwise, you will recieve many errors.
