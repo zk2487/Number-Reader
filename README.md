@@ -1,6 +1,6 @@
 # Number-Reader
 -----------
-####### The program has a decent success rate of 95%.
+The program has a decent success rate of 95%.
 # Playing around with MNIST and CNN networks.
 -----------
 Based on the work of Python Machine Learning Tutorial.
